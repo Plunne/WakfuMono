@@ -1,6 +1,6 @@
 # Dear Bontarians!
 
-As an experienced governor, with ecology in my earth and attached to great values, during this mandate, my goal is to introduce politic and ecology features to the new generation SINGLE-ACCOUNT.
+As an experienced governor, with ecology in my heart and attached to great values, during this mandate, my goal is to introduce politic and ecology features to the new generation SINGLE-ACCOUNT.
 
 Before the begining of this server, we will create guides to explain how the eco-system works.
 
