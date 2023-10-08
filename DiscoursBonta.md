@@ -75,11 +75,11 @@ Des annonces seront faites frequement a l'HDV Bonta pour informer les joueurs de
 
 Tout comme mes confreres qui sont la pour vivre cette aventure MONOCOMPTE exceptionnelle :
 
-Je soutiendrai le Monocompte jusqu'à la fin.
-Si le Mono a 50 000 joueurs, je suis parmis eux.
-Si le Mono a 1 joueur, c'est moi.
-Si le monde est contre le Mono, alors je suis contre le monde.
-Et si le Mono n'a plus aucun joueurs, c'est que je suis mort.
+> *Je soutiendrai le Monocompte jusqu'à la fin.  
+> Si le Mono a 50 000 joueurs, je suis parmis eux.  
+> Si le Mono a 1 joueur, c'est moi.  
+> Si le monde est contre le Mono, alors je suis contre le monde.  
+> Et si le Mono n'a plus aucun joueurs, c'est que je suis mort.*  
 
 Vive Bonta!!!
 

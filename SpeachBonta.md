@@ -69,11 +69,11 @@ Announcements will be regularly sent at Bonta to inform players of our nation ac
 
 To conclude, like other motivated people says :
 
-I'll support Bonta to the end.
-If the Single-Player has 50k players, I'm one of them.
-If the Single-Player has only one player, It's me.
-If the world is against the Single-Player, Then I'm against the world.
-Finally, if the Single-Player is empty, It's because I'm dead.
+> *I'll support Bonta to the end.  
+> If the Single-Player has 50k players, I'm one of them.  
+> If the Single-Player has only one player, It's me.  
+> If the world is against the Single-Player, Then I'm against the world.  
+> Finally, if the Single-Player is empty, It's because I'm dead.*
 
 Long live Bonta!!!
 
