@@ -42,7 +42,7 @@ The Bonta soldiers program will consist of meeting our best players to classify 
 We will need the involvment of our best players to defend. For those who want to serve, You will get a role that will indicate that you are available for urgency defense when online, e.g. when a low level see an high level bandit in a territory, you'll have to arrest him.
 
 ## 3.3 - Actuality
-At the end of each month, we will celebrate our best player, every bontarians that finished in the top 3 of a dungeon ladder and the PvP top 10. (Take it like star program)
+At the end of each month, we will celebrate our best players, every bontarians that finished in the top 3 of a dungeon ladder and the PvP top 10. (Take it like star program)
 
 # IV. Events
 
@@ -59,11 +59,11 @@ And others...
 
 # V. Mentoring
 
-The mentoring is le last most important point I wanted to talk about. In order to preserve a great atmosphere and to advance together, I suggest to every bontarians, taking sometime the time to return to low level zones to initiate and invite novices to contribute at the life of Bonta.
+The mentoring is the last most important point I wanted to talk about. In order to preserve a great atmosphere and to advance together, I suggest to every bontarians, taking a few time to return to low level zones to initiate and invite novices to contribute to the life of Bonta.
 
 # VI. Announcements
 
-Announcements will be regulary sent at Bonta to inform players of our nation activity.
+Announcements will be regularly sent at Bonta to inform players of our nation activity.
 
 # VII. Conclusion
 
