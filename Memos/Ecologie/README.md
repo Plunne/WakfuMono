@@ -14,19 +14,19 @@ Il existe 3 niveaux de bonus de territoires, nous verrons plus tard comment les 
 
 Lorsque toutes les ressources sont desequilibrees, des malus sont appliques afin de sanctionner les joueurs dans la zone.
 
-![ecologieBworkBonus1]()
+![ecologieBworkBonus1](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkBonus1.PNG)
 
 ## 1.2 - Bonus ecologique simple
 
 Lorsqu'au moins une ressource reigne en equilibre, des bonus de region sont appliques pour recompenser les joueurs d'entretenir un minimum d'equilibre dans la zone.
 
-![ecologieBworkBonus2]()
+![ecologieBworkBonus2](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkBonus2.PNG)
 
 ## 1.3 - Bonus ecologique total
 
 Lorsque toutes les ressources reignent en equilibre, le maitre de clan vous recompense 3x plus!
 
-![ecologieBworkBonus3]()
+![ecologieBworkBonus3](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkBonus3.PNG)
 
 # II. OBSERVER LES BONUS
 
@@ -34,7 +34,7 @@ Lorsque toutes les ressources reignent en equilibre, le maitre de clan vous reco
 
 Bon a savoir : En haut a droite de votre interface, vous pouvez voir rapidement l'etat des bonus de territoire.
 
-![ecologieBworkBonusStatus]()
+![ecologieBworkBonusStatus](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkBonusStatus.PNG)
 
 ## 2.2 - Quelles ressources sont impliquees?
 
@@ -42,7 +42,7 @@ Maintenant, la question est : Comment savoir quelles ressources impactent le ter
 
 Dans l'interface ecologie, vous retrouverez des jauges, chacune etant attribuee a une ressource. En dessous de certaines d'entre-elles, se trouve un petit encart comportant l'etat de son etoile de bonus et la valeur minimale et maximale de la quantite de la ressource en question a respecter. Les autres n'impactent pas l'eco-systeme.
 
-![ecologieBworkBonusStars]()
+![ecologieBworkBonusStars](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkBonusStars.PNG)
 
 # III. RETABLIR LES BONUS
 
@@ -54,7 +54,7 @@ En premier lieu, il est bien entendu important de faire attention a ne pas deseq
 
 **Exemple :** Ici la ressource est en surpopulation (**230** > **200**), il faut donc eviter de planter cette derniere.
 
-![ecologieBworkAction1Bad]()
+![ecologieBworkAction1Bad](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkAction1Bad.PNG)
 
 ## 3.2 - Retablissement des bonus
 
@@ -62,7 +62,7 @@ Pour reequilibrer la quantite de bonus, il faut retablir la quantite de celle-ci
 
 **Exemple :** Ici la ressource est en surpopulation (**230** > **200**), il faut donc reduire la quantite de cette derniere.
 
-![ecologieBworkAction2Good]()
+![ecologieBworkAction2Good](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkAction2Good.PNG)
 
 ## 3.3 - Bonus retabli
 
@@ -70,7 +70,7 @@ Une fois le bonus retabli, la jauge passe au vert et l'etoile de satisfaction ch
 
 **Exemple :** Ici la ressource est bien comprise entre **0** et **200**, il n'y a plus rien a faire, je vous conseille tout de meme, de continuer un peu a marger pour eviter que ca redeborde aussitot.
 
-![ecologieBworkAction3Done]()
+![ecologieBworkAction3Done](https://raw.githubusercontent.com/Plunne/WakfuMono/refs/heads/main/Memos/Ecologie/Pictures/ecologieBworkAction3Done.PNG)
 
 # Conclusion
 
